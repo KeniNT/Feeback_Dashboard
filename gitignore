@@ -1,0 +1,14 @@
+# Ignore environment files
+frontend/.env
+backend/.env
+
+# Or if you name them differently
+*.env
+
+# Node modules
+frontend/node_modules/
+backend/node_modules/
+
+# Build folders
+frontend/dist/
+backend/dist/
